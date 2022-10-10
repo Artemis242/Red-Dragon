@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `📤salut je suis le bot no name😇
+🤷‍♀️Qu'est ce que je peux faire pour vous?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -52,7 +52,7 @@ global.ownertag = '+242065055874' //your tag number
 global.botname = '𝑁𝑂-𝑁𝐴𝑀𝐸 𝐵𝑂𝑇' //ur bot name
 global.packname = "𝑖'𝑎𝑚 𝑖𝑛𝑣𝑖𝑛𝑠𝑖𝑏𝑙𝑒" // sticker packname
 global.author = "𝐌𝐏-𝐊𝐈𝐍𝐆" // sticker author
-global.dragonemoji = '🤞' // Menu emoji
+global.dragonemoji = '🤞🏾' // Menu emoji
 global.footer = '[ ◉ 𝑁𝑂-𝑁𝐴𝑀𝐸 𝑩𝑶𝑻 ]' //
 
 //database
